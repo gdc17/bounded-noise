@@ -1,2 +1,2 @@
 # bounded-noise
-Code from chapter 3 of my thesis demonstrating the dynamics of systems with bounded noise
+Code from chapter 3 of my thesis describing the behaviour of dynamical systems perturbed by bounded Markovian noise 
